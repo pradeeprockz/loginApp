@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.heading {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 48px;
+  font-weight: bold;
+}
